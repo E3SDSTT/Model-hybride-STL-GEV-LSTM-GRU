@@ -1,5 +1,5 @@
 # Model-hybride-STL-GEV-LSTM-GRU
-Model hybride STL-GEV-LSTM et GRU pour la prédiction des débits hydrologique dans le bassin du Mono en utilisant les paramètres univariés et multivariés tels que les données climatique
+Model hybride STL-GEV-LSTM et GRU pour la prédiction des débits hydrologique extrêms mensuels dans le bassin du Mono en utilisant les paramètres univariés et multivariés tels que les données climatique
 
 Ce dépôt contient l'implémentation complète d'une approche hybride combinant décomposition statistique, théorie des valeurs extrêmes et Deep Learning pour la prévision des crues dans le bassin du Mono (Togo).
 
